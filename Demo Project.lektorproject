@@ -1,2 +1,5 @@
 [project]
-name = Demo Project11
+name = Lektor Demo
+
+[servers.ghpages]
+target = ghpages+https://m3andros/lektor-demo
